@@ -1,0 +1,61 @@
+Produto,Categoria,Quantidade,Venda,Data,Total
+Notebook Gamer,Eletrônicos,3,1500,23-01-15,4500
+Smartphone,Eletrônicos,5,1200,23-01-15,6000
+Cafeteira Elétrica,Eletrodomésticos,2,350,23-01-15,700
+Televisão 4K,Eletrônicos,4,2800,23-01-15,11200
+Geladeira Inox,Eletrodomésticos,1,3100,23-01-15,3100
+Fone de Ouvido Bluetooth,Acessórios,10,150,23-01-15,1500
+Tablet 10 polegadas,Eletrônicos,2,950,23-01-15,1900
+Impressora Multifuncional,Informática,3,600,23-01-15,1800
+Ventilador de Mesa,Eletrodomésticos,6,180,23-01-15,1080
+Mouse Gamer,Informática,7,200,23-01-15,1400
+Smartwatch,Acessórios,4,750,23-01-15,3000
+Console de Videogame,Eletrônicos,2,2200,23-01-15,4400
+Fogão 4 Bocas,Eletrodomésticos,1,1200,23-01-15,1200
+Teclado Mecânico,Informática,5,450,23-01-15,2250
+Micro-ondas,Eletrodomésticos,2,700,23-01-15,1400
+"Monitor LED 24""",Informática,3,950,23-01-15,2850
+Aspirador de Pó,Eletrodomésticos,2,400,23-01-15,800
+Caixa de Som Bluetooth,Acessórios,6,300,23-01-15,1800
+Webcam Full HD,Informática,4,250,23-01-15,1000
+Ar-Condicionado Split,Eletrodomésticos,1,2500,23-01-15,2500
+Headset Gamer,Acessórios,4,320,23-01-16,1280
+Notebook Ultrafino,Eletrônicos,2,2300,23-01-16,4600
+Panela Elétrica,Eletrodomésticos,5,280,23-01-16,1400
+Roteador Wi-Fi 6,Informática,3,470,23-01-16,1410
+Liquidificador,Eletrodomésticos,6,210,23-01-16,1260
+Drone com Câmera,Eletrônicos,1,1850,23-01-16,1850
+Carregador Portátil,Acessórios,8,120,23-01-16,960
+Scanner de Documentos,Informática,2,860,23-01-16,1720
+Frigobar,Eletrodomésticos,1,950,23-01-16,950
+TV Box Android,Eletrônicos,5,300,23-01-16,1500
+Hub USB-C,Informática,7,180,23-01-16,1260
+Relógio Digital,Acessórios,6,220,23-01-16,1320
+Caixa Térmica,Utilidades,3,150,23-01-16,450
+Leitor de Código de Barras,Informática,2,490,23-01-16,980
+Chaleira Elétrica,Eletrodomésticos,4,200,23-01-16,800
+Câmera Digital,Eletrônicos,1,1450,23-01-16,1450
+Antena Digital,Acessórios,9,90,23-01-16,810
+Estabilizador,Informática,3,350,23-01-16,1050
+Forno Elétrico,Eletrodomésticos,2,670,23-01-16,1340
+Cabo HDMI,Acessórios,10,40,23-01-16,400
+Batedeira Planetária,Eletrodomésticos,2,580,23-01-17,1160
+Projetor Portátil,Eletrônicos,1,1300,23-01-17,1300
+Cadeira Gamer,Acessórios,1,980,23-01-17,980
+Estação de Solda,Informática,2,430,23-01-17,860
+Secador de Cabelo,Eletrodomésticos,4,260,23-01-17,1040
+"Monitor Curvo 27""",Informática,2,1250,23-01-17,2500
+Luminária LED de Mesa,Acessórios,6,110,23-01-17,660
+Mini Processador,Eletrodomésticos,3,190,23-01-17,570
+Teclado Wireless,Informática,5,210,23-01-17,1050
+Aquecedor Elétrico,Eletrodomésticos,1,890,23-01-17,890
+Notebook 2 em 1,Eletrônicos,2,2700,23-01-17,5400
+Pen Drive 128GB,Acessórios,8,95,23-01-17,760
+Extensão Elétrica,Acessórios,10,45,23-01-17,450
+Filtro de Linha,Acessórios,6,65,23-01-17,390
+Hub USB 3.0,Informática,4,150,23-01-17,600
+Máquina de Waffle,Eletrodomésticos,2,230,23-01-17,460
+Leitor de Cartão SD,Acessórios,5,60,23-01-17,300
+Power Bank Solar,Acessórios,3,180,23-01-17,540
+Repetidor Wi-Fi,Informática,4,130,23-01-17,520
+"Smart TV 50""",Eletrônicos,1,3200,23-01-17,3200

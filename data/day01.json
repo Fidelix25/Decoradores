@@ -1,0 +1,142 @@
+[
+  {
+    "Produto": "Notebook Gamer",
+    "Categoria": "Eletrônicos",
+    "Quantidade": 3,
+    "Venda": 1500,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Smartphone",
+    "Categoria": "Eletrônicos",
+    "Quantidade": 5,
+    "Venda": 1200,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Cafeteira Elétrica",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 2,
+    "Venda": 350,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Televisão 4K",
+    "Categoria": "Eletrônicos",
+    "Quantidade": 4,
+    "Venda": 2800,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Geladeira Inox",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 1,
+    "Venda": 3100,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Fone de Ouvido Bluetooth",
+    "Categoria": "Acessórios",
+    "Quantidade": 10,
+    "Venda": 150,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Tablet 10 polegadas",
+    "Categoria": "Eletrônicos",
+    "Quantidade": 2,
+    "Venda": 950,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Impressora Multifuncional",
+    "Categoria": "Informática",
+    "Quantidade": 3,
+    "Venda": 600,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Ventilador de Mesa",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 6,
+    "Venda": 180,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Mouse Gamer",
+    "Categoria": "Informática",
+    "Quantidade": 7,
+    "Venda": 200,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Smartwatch",
+    "Categoria": "Acessórios",
+    "Quantidade": 4,
+    "Venda": 750,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Console de Videogame",
+    "Categoria": "Eletrônicos",
+    "Quantidade": 2,
+    "Venda": 2200,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Fogão 4 Bocas",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 1,
+    "Venda": 1200,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Teclado Mecânico",
+    "Categoria": "Informática",
+    "Quantidade": 5,
+    "Venda": 450,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Micro-ondas",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 2,
+    "Venda": 700,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Monitor LED 24\"",
+    "Categoria": "Informática",
+    "Quantidade": 3,
+    "Venda": 950,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Aspirador de Pó",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 2,
+    "Venda": 400,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Caixa de Som Bluetooth",
+    "Categoria": "Acessórios",
+    "Quantidade": 6,
+    "Venda": 300,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Webcam Full HD",
+    "Categoria": "Informática",
+    "Quantidade": 4,
+    "Venda": 250,
+    "Data": "23-01-15"
+  },
+  {
+    "Produto": "Ar-Condicionado Split",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 1,
+    "Venda": 2500,
+    "Data": "23-01-15"
+  }
+]

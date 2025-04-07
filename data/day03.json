@@ -1,0 +1,142 @@
+[
+  {
+    "Produto": "Batedeira Planetária",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 2,
+    "Venda": 580,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Projetor Portátil",
+    "Categoria": "Eletrônicos",
+    "Quantidade": 1,
+    "Venda": 1300,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Cadeira Gamer",
+    "Categoria": "Acessórios",
+    "Quantidade": 1,
+    "Venda": 980,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Estação de Solda",
+    "Categoria": "Informática",
+    "Quantidade": 2,
+    "Venda": 430,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Secador de Cabelo",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 4,
+    "Venda": 260,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Monitor Curvo 27\"",
+    "Categoria": "Informática",
+    "Quantidade": 2,
+    "Venda": 1250,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Luminária LED de Mesa",
+    "Categoria": "Acessórios",
+    "Quantidade": 6,
+    "Venda": 110,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Mini Processador",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 3,
+    "Venda": 190,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Teclado Wireless",
+    "Categoria": "Informática",
+    "Quantidade": 5,
+    "Venda": 210,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Aquecedor Elétrico",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 1,
+    "Venda": 890,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Notebook 2 em 1",
+    "Categoria": "Eletrônicos",
+    "Quantidade": 2,
+    "Venda": 2700,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Pen Drive 128GB",
+    "Categoria": "Acessórios",
+    "Quantidade": 8,
+    "Venda": 95,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Extensão Elétrica",
+    "Categoria": "Acessórios",
+    "Quantidade": 10,
+    "Venda": 45,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Filtro de Linha",
+    "Categoria": "Acessórios",
+    "Quantidade": 6,
+    "Venda": 65,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Hub USB 3.0",
+    "Categoria": "Informática",
+    "Quantidade": 4,
+    "Venda": 150,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Máquina de Waffle",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 2,
+    "Venda": 230,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Leitor de Cartão SD",
+    "Categoria": "Acessórios",
+    "Quantidade": 5,
+    "Venda": 60,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Power Bank Solar",
+    "Categoria": "Acessórios",
+    "Quantidade": 3,
+    "Venda": 180,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Repetidor Wi-Fi",
+    "Categoria": "Informática",
+    "Quantidade": 4,
+    "Venda": 130,
+    "Data": "23-01-17"
+  },
+  {
+    "Produto": "Smart TV 50\"",
+    "Categoria": "Eletrônicos",
+    "Quantidade": 1,
+    "Venda": 3200,
+    "Data": "23-01-17"
+  }
+]

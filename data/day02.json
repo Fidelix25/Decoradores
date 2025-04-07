@@ -1,0 +1,142 @@
+[
+  {
+    "Produto": "Headset Gamer",
+    "Categoria": "Acessórios",
+    "Quantidade": 4,
+    "Venda": 320,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Notebook Ultrafino",
+    "Categoria": "Eletrônicos",
+    "Quantidade": 2,
+    "Venda": 2300,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Panela Elétrica",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 5,
+    "Venda": 280,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Roteador Wi-Fi 6",
+    "Categoria": "Informática",
+    "Quantidade": 3,
+    "Venda": 470,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Liquidificador",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 6,
+    "Venda": 210,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Drone com Câmera",
+    "Categoria": "Eletrônicos",
+    "Quantidade": 1,
+    "Venda": 1850,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Carregador Portátil",
+    "Categoria": "Acessórios",
+    "Quantidade": 8,
+    "Venda": 120,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Scanner de Documentos",
+    "Categoria": "Informática",
+    "Quantidade": 2,
+    "Venda": 860,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Frigobar",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 1,
+    "Venda": 950,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "TV Box Android",
+    "Categoria": "Eletrônicos",
+    "Quantidade": 5,
+    "Venda": 300,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Hub USB-C",
+    "Categoria": "Informática",
+    "Quantidade": 7,
+    "Venda": 180,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Relógio Digital",
+    "Categoria": "Acessórios",
+    "Quantidade": 6,
+    "Venda": 220,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Caixa Térmica",
+    "Categoria": "Utilidades",
+    "Quantidade": 3,
+    "Venda": 150,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Leitor de Código de Barras",
+    "Categoria": "Informática",
+    "Quantidade": 2,
+    "Venda": 490,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Chaleira Elétrica",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 4,
+    "Venda": 200,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Câmera Digital",
+    "Categoria": "Eletrônicos",
+    "Quantidade": 1,
+    "Venda": 1450,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Antena Digital",
+    "Categoria": "Acessórios",
+    "Quantidade": 9,
+    "Venda": 90,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Estabilizador",
+    "Categoria": "Informática",
+    "Quantidade": 3,
+    "Venda": 350,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Forno Elétrico",
+    "Categoria": "Eletrodomésticos",
+    "Quantidade": 2,
+    "Venda": 670,
+    "Data": "23-01-16"
+  },
+  {
+    "Produto": "Cabo HDMI",
+    "Categoria": "Acessórios",
+    "Quantidade": 10,
+    "Venda": 40,
+    "Data": "23-01-16"
+  }
+]
