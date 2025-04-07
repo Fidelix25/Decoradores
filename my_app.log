@@ -1,0 +1,4 @@
+2025-04-07 15:10:21.013 | INFO     | __main__:sum:11 - You have inserted correct values, congratulation the result is 7
+2025-04-07 15:10:21.013 | INFO     | __main__:sum:11 - You have inserted correct values, congratulation the result is 35
+2025-04-07 15:10:21.013 | CRITICAL | __main__:sum:16 - You have inserted incorrect values
+2025-04-07 15:12:45.361 | CRITICAL | __main__:sum:16 - You have inserted incorrect values
